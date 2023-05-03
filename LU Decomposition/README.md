@@ -7,4 +7,5 @@ output:
       P = the pivot/identity matrix
 How to use:
       Define a square matrix as "A"
-      type [L, U, P] = luFactor(A)
+      type [L, U, P] = luFactor(A) 
+Once you do this it'll carry out all the work out for you and give the outputs.
